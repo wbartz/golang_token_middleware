@@ -1,5 +1,5 @@
 # golang_token_middleware
-Middelware para validação de token
+Middleware para validação de token
 
 Middleware utilizado em todas as conexões http para validar o token JWT.
 
